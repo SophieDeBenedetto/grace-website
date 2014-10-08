@@ -125,6 +125,7 @@ p {
 }
 
 #footer {
-    clear: both;
+    /*clear: both;*/
     font-family: Courier;
+    display: relative;
 }
